@@ -1,0 +1,11 @@
+INSTALLATION
+------------
+
+1. Download script files and unzip.
+2. Set your affiliate and API keys in config.php file.
+3. Upload files on your server.
+
+MORE INFORMATION
+----------------
+
+If you have any problems installing, contact us.
